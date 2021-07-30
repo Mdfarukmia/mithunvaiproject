@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+body{
+    background-color: ;
+}
+.nav ul a{
+    color: black;
+    font-size: large;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+}
+
+
+.row{
+
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.imgone{
+    width: 70px;
+    height: 40px;
+}
+.nav{
+    background-color:white;
+
+}
+.secone{
+    background-image: url("images/imgtwo.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+.textdiv{
+    padding-top: 140px;
+    padding-left: 140px;
+
+}
+.textdiv h1{
+    font-size: 60px;
+}
+.btngrp{
+    margin-left: 140px;
+    margin-top: 15px;
+}
+.sectwo img{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+}
+section{
+    margin-bottom: 70px;
+}
+.secthree .row img{
+  width: 500px;
+}
+.margin{
+ margin-bottom: 70px;
+}
+.section{
+  margin-top: 70px;
+}
+.secfour{
+    background-image: url('images/imgtwo.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.secfour h4 , h3{
+    color: white;
+}
+footer{
+    background-color: black;
+ 
+    height: 600px;
+}
+.redpart{
+    height: 200px;
+    background-color: red;
+}
+.blackpart{
+    height: 300px;
+    color: white;
+}
+.blackpart h1{
+    color: royalblue;
+}
+.mymargin{
+    padding: 100px 0px;
+}
+.lastpart{
+    height: 100px;
+}
